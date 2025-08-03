@@ -9,6 +9,7 @@ This repository offers a developer-friendly template for a modern personal profi
 - Built with Vue 3 Composition API and `<script setup>`
 - Lightning-fast development with Vite
 - Easily customizable components and styles
+- 
 
 ## Getting Started
 
