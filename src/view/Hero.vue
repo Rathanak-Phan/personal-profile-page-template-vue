@@ -19,6 +19,14 @@
           Get In Touch
         </a>
       </div>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a href="#" class="px-8 py-3 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700 transition font-medium">
+          View My Work
+        </a>
+        <a href="#" class="px-8 py-3 border border-blue-600 text-blue-600 rounded-lg hover:bg-blue-50 transition font-medium">
+          Get In Touch
+        </a>
+      </div>
     </div>
   </section>
 </template>
