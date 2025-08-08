@@ -6,5 +6,4 @@ import Home from "./view/Home.vue";
 <template>
   <Header />
   <Home />
-  <Home />
 </template>
